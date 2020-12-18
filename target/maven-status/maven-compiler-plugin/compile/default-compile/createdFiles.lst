@@ -1,0 +1,3 @@
+fr\doranco\jaxrs\jersey\entity\Employe.class
+fr\doranco\jaxrs\jersey\server\EmployeWebResource.class
+fr\doranco\jaxrs\jersey\server\IEmployeWebResource.class
